@@ -23,7 +23,7 @@ If you like to know more about the fibonacci serie [press here.](https://en.wiki
 
 The recursive formation rule is the following:
 
-<img src="https://latex.codecogs.com/png.image?\dpi{110}&space;{f_n}&space;=&space;\begin{cases}1&space;&&space;,x=0&space;\\&space;1&space;&&space;,x=1&space;\\f_{n-1}&space;&plus;&space;f_(n-2)&space;&&space;,x&space;>&space;1\end{cases}" title="{f_n} = \begin{cases}1 & ,x=0 \\ 1 & ,x=1 \\f_{n-1} + f_(n-2) & ,x > 1\end{cases}" />
+<img src="https://latex.codecogs.com/png.image?\dpi{110}&space;{f_n}&space;=&space;\begin{cases}1&space;&&space;,x=0&space;\\&space;1&space;&&space;,x=1&space;\\f_{n-1}&space;&plus;&space;f_{n-2}&space;&&space;,x&space;>&space;1\end{cases}" title="{f_n} = \begin{cases}1 & ,x=0 \\ 1 & ,x=1 \\f_{n-1} + f_{n-2} & ,x > 1\end{cases}" />
 
 The explicid formation rule is the following:
 
