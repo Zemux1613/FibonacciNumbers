@@ -1,3 +1,4 @@
 #pragma once
 
-int generateFibonacci(int numberOfFibonacciSeries);
+long long generateFibonacci(int numberOfFibonacciSeries);
+long long generateExplicidFibonacci(int numberOfFibonacciSeries);
