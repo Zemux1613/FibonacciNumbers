@@ -12,8 +12,15 @@ int main() {
 
     printf("The %d number of the fibinacci numbers is %d\n", number, generateExplicidFibonacci(number));
     printf("The %d number of the fibinacci numbers is %d\n", number, generateFibonacci(number));
-    
+    printf("The aproximation on the golden ratio is %f\n", goldenRatio(number));
+
     return 0;
+
+}
+
+double goldenRatio(int numberOfFibonacciSeries) {
+
+    return (1.0*generateExplicidFibonacci(numberOfFibonacciSeries)) / generateExplicidFibonacci(numberOfFibonacciSeries-1);
 
 }
 
