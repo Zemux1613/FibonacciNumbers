@@ -27,7 +27,7 @@ The recursive formation rule is the following:
 
 The explicid formation rule is the following:
 
-<img src="https://latex.codecogs.com/png.image?\dpi{110}&space;{f_n}&space;=&space;\frac{1}{\sqrt{5}}\begin{bmatrix}{(\frac{1&plus;\sqrt{5}}{2})}^{n}&space;-&space;{\frac{1-\sqrt{5}}{2}}^{n}&space;&space;\\\end{bmatrix}" title="{f_n} = \frac{1}{\sqrt{5}}\begin{bmatrix}{(\frac{1+\sqrt{5}}{2})}^{n} - {\frac{1-\sqrt{5}}{2}}^{n} \\\end{bmatrix}" />
+<img src="https://latex.codecogs.com/png.image?\dpi{110}&space;{f_n}&space;=&space;\frac{1}{\sqrt{5}}\begin{bmatrix}{(\frac{1&plus;\sqrt{5}}{2})}^{n}&space;-&space;{(\frac{1-\sqrt{5}}{2})}^{n}&space;&space;\\\end{bmatrix}" />
 
 ## Contributing
 
